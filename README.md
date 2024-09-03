@@ -6,6 +6,7 @@
 
 - **Not Şifreleme-Encryption:** Kullanıcıların özel notlarını Vigenère şifreleme algoritması ile güvenli bir şekilde şifreler.
 - **Not Şifre Çözme:-Decryption** Kullanıcıların şifrelenmiş notlarını geri çözerek okunabilir hale getirir.
+-  **Dosya Kayıt Sistemi:** Şifrelenmiş notlar bir dosyada saklanır ve daha sonra çözülebilir.
 
 ## Gereksinimler
 
