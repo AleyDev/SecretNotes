@@ -1,6 +1,6 @@
-# Secret Notes Uygulaması
+# TUA Secret Notes Uygulaması
 
-**Secret Notes** uygulaması, kullanıcının özel notlarını Vigenère şifreleme yöntemiyle şifreleyip kaydeder ve gerektiğinde şifre çözme işlemi yaparak notları geri getirir.
+**TUA Secret Notes** uygulaması, kullanıcının özel notlarını Vigenère şifreleme yöntemiyle şifreleyip kaydeder ve gerektiğinde şifre çözme işlemi yaparak notları geri getirir.
 
 ## Özellikler
 
