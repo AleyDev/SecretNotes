@@ -5,7 +5,7 @@ import base64
 
 # Ekranı, başlığı ve ölçüleri tanımlıyorum
 root = tk.Tk()
-root.title("Secret Notes")
+root.title("TUA Secret Notes")
 root.geometry("300x550")
 root.config(padx=30, pady=30)
 
