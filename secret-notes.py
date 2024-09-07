@@ -64,7 +64,8 @@ def decrypt_notes():
             input_text.insert("1.0", decrypted_message)  # Çözülmüş mesajı ekrana yazıyorum
         except:
             messagebox.showinfo(title="Error!", message="Please enter all info.")  # Hata mesajı gösteriyorum
-            
+      
+      
 # UI
 # Resmi açıyorum ve bir PhotoImage nesnesine dönüştürüyorum
 image = Image.open("top-secret.png")
